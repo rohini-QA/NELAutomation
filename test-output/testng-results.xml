@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-11T16:29:14 IST" name="Suite" finished-at="2023-10-11T16:29:14 IST" duration-ms="41">
+    <groups>
+    </groups>
+    <test started-at="2023-10-11T16:29:14 IST" name="Test" finished-at="2023-10-11T16:29:14 IST" duration-ms="41">
+      <class name="testNG.NewTest">
+        <test-method is-config="true" signature="beforesuite()[pri:0, instance:testNG.NewTest@7133da86]" started-at="2023-10-11T16:29:14 IST" name="beforesuite" finished-at="2023-10-11T16:29:14 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testNG.NewTest@7133da86]" started-at="2023-10-11T16:29:14 IST" name="beforetest" finished-at="2023-10-11T16:29:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:testNG.NewTest@7133da86]" started-at="2023-10-11T16:29:14 IST" name="BeforeClass" finished-at="2023-10-11T16:29:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testNG.NewTest@7133da86]" started-at="2023-10-11T16:29:14 IST" name="BeforeMethod" finished-at="2023-10-11T16:29:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="testcase1()[pri:0, instance:testNG.NewTest@7133da86]" started-at="2023-10-11T16:29:14 IST" name="testcase1" finished-at="2023-10-11T16:29:14 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testNG.NewTest@7133da86]" started-at="2023-10-11T16:29:14 IST" name="AfterMethod" finished-at="2023-10-11T16:29:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testNG.NewTest@7133da86]" started-at="2023-10-11T16:29:14 IST" name="BeforeMethod" finished-at="2023-10-11T16:29:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="testcase2()[pri:0, instance:testNG.NewTest@7133da86]" started-at="2023-10-11T16:29:14 IST" name="testcase2" finished-at="2023-10-11T16:29:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testNG.NewTest@7133da86]" started-at="2023-10-11T16:29:14 IST" name="AfterMethod" finished-at="2023-10-11T16:29:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:testNG.NewTest@7133da86]" started-at="2023-10-11T16:29:14 IST" name="afterclass" finished-at="2023-10-11T16:29:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:testNG.NewTest@7133da86]" started-at="2023-10-11T16:29:14 IST" name="aftertest" finished-at="2023-10-11T16:29:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:testNG.NewTest@7133da86]" started-at="2023-10-11T16:29:14 IST" name="aftersuite" finished-at="2023-10-11T16:29:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- testNG.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
