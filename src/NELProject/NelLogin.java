@@ -7,13 +7,15 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 
 public class NelLogin {
 	public static void main(String[] args) throws InterruptedException {
 		
 
-		System.setProperty("webdriver.chrome.driver", "D:\\Chrome\\Chrome_128\\chromedriver.exe");
-		//WebDriverManager.chromedriver().setup();
+		//System.setProperty("webdriver.chrome.driver", "D:\\Chrome\\Chrome_128\\chromedriver.exe");
+		WebDriverManager.chromedriver().setup();
 		
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://smartexam.navneet.com");
